@@ -11,5 +11,5 @@ int main(){
 			printf("this number is %d\t",a-1);
 		}
 	}
-	printf("\n");
+	printf("\t\n");
 }
